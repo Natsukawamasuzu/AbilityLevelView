@@ -1,4 +1,6 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group = 'com.github.Natsukawamasuzu'
 
 android {
     compileSdkVersion 28
@@ -40,7 +42,6 @@ dependencies {
 
 /** 以下开始是将Android Library上传到jcenter的相关配置**/
 
-apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
 //项目主页
