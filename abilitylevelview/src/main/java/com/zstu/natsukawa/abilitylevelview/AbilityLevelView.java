@@ -1,4 +1,4 @@
-package com.zstu.natsukawa.abilitylevelview2;
+package com.zstu.natsukawa.abilitylevelview;
 
 import android.animation.ValueAnimator;
 import android.content.Context;

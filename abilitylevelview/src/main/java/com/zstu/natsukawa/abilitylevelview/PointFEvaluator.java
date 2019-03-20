@@ -1,4 +1,4 @@
-package com.zstu.natsukawa.abilitylevelview2;
+package com.zstu.natsukawa.abilitylevelview;
 
 import android.animation.TypeEvaluator;
 import android.graphics.PointF;
